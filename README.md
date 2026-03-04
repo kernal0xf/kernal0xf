@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kernal0xf/kernal0xf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"I create reliable, user-focused solutions, driven by a passion for meaningful and secure code, and quiet pursuits like hiking peaks, diving into deep reads, and breathing anime."*
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+```javascript
+const kernal0xf = {
+    location: "India 🇮🇳",
+    role: "Full-stack Developer + Security Researcher",
+    code: ["JavaScript", "TypeScript", "Python", "BASH", "HTML", "CSS"],
+    technologies: {
+      frontend: ["React", "Next.js"],
+      backend: ["Node.js"],
+      databases: ["MongoDB", "MySQL", "PostgreSQL"],
+      cloud: ["AWS", "GCP"],
+      tools: ["Docker", "Git", "Postman", "BurpSuite"],
+    operating_systems: ["Linux (Arch, Debian, RHEL)", "Windows"]
+    }
+};
+```
+
