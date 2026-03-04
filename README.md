@@ -11,6 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```javascript
+
 const kernal0xf = {
     location: "India 🇮🇳",
     role: "Full-stack Developer + Security Researcher",
@@ -24,5 +25,6 @@ const kernal0xf = {
     operating_systems: ["Linux (Arch, Debian, RHEL)", "Windows"]
     }
 };
+
 ```
 
